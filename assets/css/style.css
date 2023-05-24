@@ -1,0 +1,35 @@
+#logodigimon {
+    max-height: 50px;
+    max-width: none;
+}
+
+.container {
+    background-color: aliceblue;
+    width: 60%;
+    padding: 5%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+body {
+    background-image: url('../img/wallpaper.png');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#lista {
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#search-input {
+    width: 99%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
